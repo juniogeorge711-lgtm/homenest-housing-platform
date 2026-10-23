@@ -1,0 +1,6 @@
+{
+  "name": "HavenStone Living | Apartment & Housing Rentals",
+  "description": "Premium apartment and housing rental platform featuring verified luxury listings, instant viewing bookings, and smart leasing technology engineered by George.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
